@@ -1,0 +1,140 @@
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\mikro\Desktop\Rahmet\Program\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+C:\Users\mikro\Desktop\Anıl Öztürk\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+G:\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+C:\Users\Z420\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+\\psf\Home\Desktop\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe.config
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.exe
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\RobotEngineering_HW1_14067019.pdb
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.dll
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.pdb
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.xml
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csprojResolveAssemblyReference.cache
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.g.cs
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\App.g.cs
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.cache
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019_MarkupCompile.lref
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\MainWindow.baml
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.g.resources
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.Properties.Resources.resources
+C:\Users\anilo\iCloudDrive\Dersler\Robot Engineering\HW1\RobotEngineering_HW1_14067019 - Son\RobotEngineering_HW1_14067019\obj\Debug\RobotEngineering_HW1_14067019.csproj.GenerateResource.Cache
